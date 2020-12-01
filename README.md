@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  * 🤔 I’m looking for help with website design
  * 💬 I'm optimistic about the prospects of JavaScript
  * 🥅 2020 Goal: salary reach my target ☑️
- * ⚡ Fun fact: I'm playing Heartsone
+ * ⚡ Fun fact: I'm playing Hearthstone
 
 ### Connect with me
 [<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/ericspiPb)

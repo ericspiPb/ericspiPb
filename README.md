@@ -31,8 +31,15 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-### Languages and Tools
+### Design
 <img align="left" alt="Adobe XD" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/adobe-xd-icon.svg" />
+<img align="left" alt="Bootstrap" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/getbootstrap-icon.svg" />
+<img align="left" alt="Material UI" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/material-ui-icon.svg" />
+
+<br />
+<br />
+
+### Development
 <img align="left" alt="Visual Studio Code" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/visualstudio_code-icon.svg" />
 <img align="left" alt="Docker" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/docker-icon.svg" />
 <img align="left" alt="VirtualBox" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/virtualbox-icon.svg" />
@@ -46,6 +53,14 @@ Here are some ideas to get you started:
 <img align="left" alt="SQL" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/sql-icon.svg" />
 <img align="left" alt="MySQL" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/mysql-icon.svg" />
 <img align="left" alt="MongoDB" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/mongodb-icon.svg" />
+
+<br />
+<br />
+
+### Learning
+<img align="left" alt="Sketching" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/strapi-icon.svg" />
+<img align="left" alt="Strapi" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/strapi-icon.svg" />
+<img align="left" alt="TensorFlow" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/tensorflow-icon.svg" />
 
 <br />
 <br />

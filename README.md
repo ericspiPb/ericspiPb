@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <br />
 
 ### Learning
-<img align="left" alt="Sketching" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/strapi-icon.svg" />
+<img align="left" alt="ProCreate" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/procreate-icon.png" />
 <img align="left" alt="Strapi" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/strapi-icon.svg" />
 <img align="left" alt="TensorFlow" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/tensorflow-icon.svg" />
 

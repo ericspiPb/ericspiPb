@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### Languages and Tools
 <img align="left" alt="Adobe XD" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/adobe-xd-icon.svg" />
 <img align="left" alt="Visual Studio Code" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/visualstudio_code-icon.svg" />
-<img align="left" alt="Docker" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/docker.svg" />
+<img align="left" alt="Docker" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/docker-icon.svg" />
 <img align="left" alt="VirtualBox" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/virtualbox-icon.svg" />
 <img align="left" alt="HTML5" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/html5-icon.svg" />
 <img align="left" alt="SASS" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/sass-lang-icon.svg" />

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  * 🔭 I'm currently working on Goverment Hospital Authority in Hong Kong
  * 🌱 I'm currently learning design and machine learning
  * 👯 I’m looking to collaborate on website design
- * 🤔 I’m looking for help with website design
+ * 🤔 I’m looking for full stack developer job
  * 💬 I'm optimistic about the prospects of JavaScript
  * 🥅 2021 Goal: salary reach my target
  * ⚡ Fun fact: I'm playing Apex Legends
